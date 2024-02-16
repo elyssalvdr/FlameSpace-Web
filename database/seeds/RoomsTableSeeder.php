@@ -1,5 +1,6 @@
 <?php
 
+namespace Database\Seeders;
 use App\Room;
 use Faker\Factory as Faker;
 use Illuminate\Database\Seeder;
